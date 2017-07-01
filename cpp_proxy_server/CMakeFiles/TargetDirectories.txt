@@ -1,0 +1,3 @@
+/Users/ruslanabdulhalikov/Developer/University/C++/cpp_proxy_server/CMakeFiles/rebuild_cache.dir
+/Users/ruslanabdulhalikov/Developer/University/C++/cpp_proxy_server/CMakeFiles/edit_cache.dir
+/Users/ruslanabdulhalikov/Developer/University/C++/cpp_proxy_server/CMakeFiles/proxy_server.dir
